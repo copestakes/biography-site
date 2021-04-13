@@ -1,0 +1,11 @@
+body {
+    background: #333;
+}
+
+.hero {
+    width: 600px;
+    height: 60vh;
+    background: url("images/red-car.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
